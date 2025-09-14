@@ -1,7 +1,3 @@
-Here is a summary report of the network activity captured in the "wireshark\_capture.pcapng" file.
-
-### **General Information**
-
 The packet capture was taken on a 64-bit Windows 11 machine with an Intel(R) Core(TM) i5-8350U CPU. The capture tool used was Dumpcap (Wireshark) version 4.4.5.
 
 ### **Network Activity**
